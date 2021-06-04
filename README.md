@@ -9,3 +9,5 @@ This project was developed as a part of curriculum in our university.
 * JDBC is used.
 * Database:mySQL server 8.0
 * used two triggers and two stored procedures.
+* javax.mail.jar is used here to send mails to users confirming their login details.
+* rs2xml.jar is used here to convert result sets to JTable.
