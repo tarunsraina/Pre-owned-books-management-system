@@ -8,20 +8,25 @@ The “PRE-OWNED BOOKS MANAGEMENT” system has been developed to override the p
   Generally we buy new textbooks and use them for very short time and then sell them to some random second hand book seller.The very same books will be brought by 
   juniors for some extra price.If those same books are required for juniors,why not we exchange right here in college campus itself,rather than getting the same 
   books for extra price. 
-  The idea here is simple,that is circulating those textbooks within the collge eliminating the middlemen involved in second hand books business.
+  The idea here is simple,that is circulating those textbooks within the college eliminating the middlemen involved in second hand books business.
   The students after completing their exams/courses can come to a platform where they can sell their textbook providing some details.Anyone can login as seller or
   buyer and sell/purchase their books.
+
+  when thse seller/buyer register themselves,we will send a confirmation message to their gmail.
+  During registration,they have to enter their college code.College code helps to organise books and show the availability of books to their particular college.When the seller posts any book,it should be available to the buyer of same college code so that we dont have to deal with transportation/shipping.
+  The whole idea was to circulate books within campus only,so college code is very important to execute the core idea.
+  
   
   we also added handwritten notes,handwritten notes are getting in demand as they have more readability features.These notes will help students during their course
-  examinations as they contain excatly what to learn and expect in examinations.These handwritten books are added by sellers,interested buyers can purchase these notes.
+  examinations as they contain exactly what to learn and expect in examinations.These handwritten notes are added by sellers,interested buyers can purchase these notes.
   
-  Important thing here is since its a idea of circulating books within college,there is no need of transportation here.
+  Important thing here is since it is a idea of circulating books within college,there is no need of transportation here.
   
-  We can organize books accoriding to semester,college,branches so that they can find their books easily.
+  We can organize books according to semester,college,branches so that buyers can find their books easily.
   
   The sellers and buyers are awarded points based on their purchases/sellings.
   
-  Sellers and buyers history is recorded and also the availbale books and sold books are updated after each purchase.
+  Sellers and buyers history is recorded and also the available books and sold books are updated after each successful purchase.
   
   
  ## Tools used:
