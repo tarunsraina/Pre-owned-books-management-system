@@ -11,3 +11,18 @@ This project was developed as a part of curriculum in our university.
 * used two triggers and two stored procedures.
 * javax.mail.jar is used here to send mails to users confirming their login details.
 * rs2xml.jar is used here to convert result sets to JTable.
+
+
+## Links to download
+
+[eclipse IDE](https://www.eclipse.org/)
+[mySQL workbench](https://www.mysql.com/products/workbench)
+[mySQL server 8.0](https://dev.mysql.com/downloads/mysql)
+[mySQL connector jar](https://dev.mysql.com/downloads/mysql)
+[javax.mail.jar](https://mvnrepository.com/artifact/javax.mail/mail/1.4.7)
+[rs2xml jar](https://hacksmile.com/rs2xml-jar-free-download)
+
+
+
+
+
