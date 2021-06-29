@@ -12,8 +12,8 @@ The “PRE-OWNED BOOKS MANAGEMENT” system has been developed to override the p
   The students after completing their exams/courses can come to a platform where they can sell their textbook providing some details.Anyone can login as seller or
   buyer and sell/purchase their books.
 
-  when thse seller/buyer register themselves,we will send a confirmation message to their gmail.
-  During registration,they have to enter their college code.College code helps to organise books and show the availability of books to their particular college.When the seller posts any book,it should be available to the buyer of same college code so that we dont have to deal with transportation/shipping.
+  when these sellers/buyers register themselves,we will send a confirmation message to their gmail.
+  During registration,they have to enter their college code.College code helps to organise books and show the availability of books to their particular college.When the seller posts any book,it should be available to the buyers of same college code so that we dont have to deal with transportation/shipping.
   The whole idea was to circulate books within campus only,so college code is very important to execute the core idea.
   
   
